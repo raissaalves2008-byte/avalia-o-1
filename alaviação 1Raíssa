@@ -1,0 +1,27 @@
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Cidade</th>
+    <th>Temperatura (°C)</th>
+    <th>Condição</th>
+  </tr>
+  <tr>
+    <td>São Paulo</td>
+    <td>28</td>
+    <td>Ensolarado</td>
+  </tr>
+  <tr>
+    <td>Rio de Janeiro</td>
+    <td>31</td>
+    <td>Parcial nublado</td>
+  </tr>
+  <tr>
+    <td>Curitiba</td>
+    <td>22</td>
+    <td>Chuva leve</td>
+  </tr>
+  <tr>
+    <td>Porto Alegre</td>
+    <td>25</td>
+    <td>Ensolarado</td>
+  </tr>
+</table>
